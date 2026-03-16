@@ -1,0 +1,33 @@
+# ARES-NAV Development Roadmap
+
+This roadmap describes the public development phases of the ARES-NAV project.
+
+## Phase 1 — Concept Development
+
+* Navigation architecture research
+* System concept definition
+* Interface design exploration
+
+## Phase 2 — Experimental Platform
+
+* Prototype development
+* Sensor interface research
+* Visualization systems
+
+## Phase 3 — Integrated Navigation Research
+
+* Robust state estimation exploration
+* System health monitoring
+* fault detection research
+
+## Phase 4 — Interface and Visualization
+
+* Advanced flight display design
+* User interface refinement
+* system visualization tools
+
+## Phase 5 — Extended Research
+
+* advanced navigation studies
+* resilience testing
+* experimental avionics development
