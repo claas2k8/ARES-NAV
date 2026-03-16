@@ -1,0 +1,9 @@
+# Security Policy
+
+ARES-NAV is an experimental avionics research project.
+
+Public documentation intentionally excludes internal system architecture, algorithms, and implementation details.
+
+If a security concern related to this repository is identified, please report it responsibly.
+
+Sensitive information should **not** be disclosed publicly through issue tracking systems.
